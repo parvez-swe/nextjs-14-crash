@@ -1,20 +1,20 @@
-import React from "react";
 export const metadata = {
-  title: "About Parvez Musharaf",
-  description: "Hi there, I am Parvez Musharaf",
-  keywords: "Parvez Musharaf",
+  title: "About Traversy Media",
 };
+
 const AboutPage = () => {
   return (
     <div>
+      <h1>About Parvez Musharaf</h1>
       <p>
-        Hi there I am Parvez. Lorem, ipsum dolor sit amet consectetur
-        adipisicing elit. Id culpa accusamus praesentium quibusdam distinctio
-        quos magnam minus dicta perferendis? Mollitia aut delectus quaerat quas
-        obcaecati ratione repellat reprehenderit exercitationem natus.
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit
+        molestiae ipsam, et aut consequatur ipsum voluptates quasi, quos
+        recusandae doloribus provident consequuntur amet nobis est voluptate
+        perferendis quaerat distinctio saepe dolores perspiciatis ex ab nostrum
+        eaque! Porro perspiciatis possimus, sed a quidem sunt sit doloremque
+        molestiae maiores blanditiis quasi quod.
       </p>
     </div>
   );
 };
-
 export default AboutPage;

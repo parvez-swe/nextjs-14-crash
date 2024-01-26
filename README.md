@@ -1,4 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js 14 Crash Course Project
+
+This is a project from my [Next.js 14 Crash Course]. It uses the newer features such as:
+
+- App directory
+- New routing system
+- Next Fonts
+- React Server Components
+- Data Fetching
+- Layouts
+- Metadata API
+- API Route Handlers
+- loading.js Page
+- and more
 
 ## Getting Started
 
